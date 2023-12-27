@@ -1,1 +1,2 @@
 This is a First line of text that i am writing to make sure i can type anything that i want to type here!
+This is the second line of text that I am adding to explore more into the git ecosystem. 
