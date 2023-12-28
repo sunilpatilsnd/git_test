@@ -36,3 +36,8 @@ Hello Odin!
 
 ### HTML adds structure to the webpage CSS adds cosmetic styles and designes to the webpage , js adds interactivity and functionality to the webpage. 
 
+# Elements and Tags
+
+## HTML tags are the identifiers with opening and closing tags that contains content in it. 
+
+## HTML tags contains three elements , opening tags, closing tags and content
